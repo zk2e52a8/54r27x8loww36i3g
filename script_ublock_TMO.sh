@@ -204,7 +204,7 @@ sort --unique -o "$ids_unificados" "$ids_unificados"
 
 # Formatear los identificadores para uBlock, añadiendo prefijos y sufijos específicos
 base_filtro=$(mktemp)
-sed 's|^|visortmo.com##.book-thumbnail-|; s|$|.book-thumbnail|' "$ids_unificados" > "$base_filtro"
+sed 's|^|visortmo.com##.book-thumbnail-|; s|$|.book.thumbnail|' "$ids_unificados" > "$base_filtro"
 
 # Añadir la cabecera y guardar el filtro
 {	echo "! Title: Filtros para visorTMO"
