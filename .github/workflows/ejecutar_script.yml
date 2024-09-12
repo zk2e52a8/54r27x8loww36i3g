@@ -1,0 +1,31 @@
+name: Ejecutar script
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  ejecutar_script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Configurar y ejecutar script
+        run: |
+          chmod +x ./script_ublock_TMO.sh
+          ./script_ublock_TMO.sh
+
+      - name: Actualizar cambios
+        run: |
+          git add -A
+          git commit -m "Actualizar filtro"
+          git pull origin main --rebase
+          git push origin main
