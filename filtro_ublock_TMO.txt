@@ -1,5 +1,5 @@
 ! Title: Filtros para visorTMO
-! Last modified: Wed, 18 Sep 2024 18:40:59 +0000
+! Last modified: Thu, 19 Sep 2024 04:11:15 +0000
 ! Expires: 6 hours
 
 visortmo.com##.book-thumbnail-10003.book.thumbnail
@@ -31,13 +31,10 @@ visortmo.com##.book-thumbnail-10129.book.thumbnail
 visortmo.com##.book-thumbnail-10131.book.thumbnail
 visortmo.com##.book-thumbnail-10135.book.thumbnail
 visortmo.com##.book-thumbnail-10138.book.thumbnail
-visortmo.com##.book-thumbnail-10140.book.thumbnail
 visortmo.com##.book-thumbnail-10141.book.thumbnail
 visortmo.com##.book-thumbnail-10142.book.thumbnail
-visortmo.com##.book-thumbnail-10145.book.thumbnail
 visortmo.com##.book-thumbnail-10148.book.thumbnail
 visortmo.com##.book-thumbnail-10149.book.thumbnail
-visortmo.com##.book-thumbnail-10154.book.thumbnail
 visortmo.com##.book-thumbnail-10164.book.thumbnail
 visortmo.com##.book-thumbnail-10169.book.thumbnail
 visortmo.com##.book-thumbnail-10171.book.thumbnail
@@ -82,7 +79,6 @@ visortmo.com##.book-thumbnail-10374.book.thumbnail
 visortmo.com##.book-thumbnail-10377.book.thumbnail
 visortmo.com##.book-thumbnail-10378.book.thumbnail
 visortmo.com##.book-thumbnail-10380.book.thumbnail
-visortmo.com##.book-thumbnail-10381.book.thumbnail
 visortmo.com##.book-thumbnail-10382.book.thumbnail
 visortmo.com##.book-thumbnail-10387.book.thumbnail
 visortmo.com##.book-thumbnail-10388.book.thumbnail
@@ -101,6 +97,7 @@ visortmo.com##.book-thumbnail-10460.book.thumbnail
 visortmo.com##.book-thumbnail-10466.book.thumbnail
 visortmo.com##.book-thumbnail-10470.book.thumbnail
 visortmo.com##.book-thumbnail-10477.book.thumbnail
+visortmo.com##.book-thumbnail-10480.book.thumbnail
 visortmo.com##.book-thumbnail-10481.book.thumbnail
 visortmo.com##.book-thumbnail-10494.book.thumbnail
 visortmo.com##.book-thumbnail-10499.book.thumbnail
@@ -147,6 +144,7 @@ visortmo.com##.book-thumbnail-10695.book.thumbnail
 visortmo.com##.book-thumbnail-10697.book.thumbnail
 visortmo.com##.book-thumbnail-10701.book.thumbnail
 visortmo.com##.book-thumbnail-10702.book.thumbnail
+visortmo.com##.book-thumbnail-10703.book.thumbnail
 visortmo.com##.book-thumbnail-10706.book.thumbnail
 visortmo.com##.book-thumbnail-10707.book.thumbnail
 visortmo.com##.book-thumbnail-10711.book.thumbnail
@@ -159,11 +157,13 @@ visortmo.com##.book-thumbnail-10742.book.thumbnail
 visortmo.com##.book-thumbnail-10749.book.thumbnail
 visortmo.com##.book-thumbnail-10750.book.thumbnail
 visortmo.com##.book-thumbnail-10752.book.thumbnail
+visortmo.com##.book-thumbnail-10755.book.thumbnail
 visortmo.com##.book-thumbnail-10756.book.thumbnail
 visortmo.com##.book-thumbnail-10757.book.thumbnail
 visortmo.com##.book-thumbnail-10759.book.thumbnail
 visortmo.com##.book-thumbnail-10761.book.thumbnail
 visortmo.com##.book-thumbnail-10764.book.thumbnail
+visortmo.com##.book-thumbnail-10775.book.thumbnail
 visortmo.com##.book-thumbnail-10777.book.thumbnail
 visortmo.com##.book-thumbnail-10783.book.thumbnail
 visortmo.com##.book-thumbnail-10786.book.thumbnail
@@ -210,6 +210,7 @@ visortmo.com##.book-thumbnail-10980.book.thumbnail
 visortmo.com##.book-thumbnail-10982.book.thumbnail
 visortmo.com##.book-thumbnail-10993.book.thumbnail
 visortmo.com##.book-thumbnail-10998.book.thumbnail
+visortmo.com##.book-thumbnail-11025.book.thumbnail
 visortmo.com##.book-thumbnail-11031.book.thumbnail
 visortmo.com##.book-thumbnail-11044.book.thumbnail
 visortmo.com##.book-thumbnail-11063.book.thumbnail
@@ -242,8 +243,6 @@ visortmo.com##.book-thumbnail-11216.book.thumbnail
 visortmo.com##.book-thumbnail-11219.book.thumbnail
 visortmo.com##.book-thumbnail-11220.book.thumbnail
 visortmo.com##.book-thumbnail-11221.book.thumbnail
-visortmo.com##.book-thumbnail-11237.book.thumbnail
-visortmo.com##.book-thumbnail-11244.book.thumbnail
 visortmo.com##.book-thumbnail-11247.book.thumbnail
 visortmo.com##.book-thumbnail-11260.book.thumbnail
 visortmo.com##.book-thumbnail-11288.book.thumbnail
@@ -276,6 +275,7 @@ visortmo.com##.book-thumbnail-11474.book.thumbnail
 visortmo.com##.book-thumbnail-11484.book.thumbnail
 visortmo.com##.book-thumbnail-11496.book.thumbnail
 visortmo.com##.book-thumbnail-11510.book.thumbnail
+visortmo.com##.book-thumbnail-11514.book.thumbnail
 visortmo.com##.book-thumbnail-11515.book.thumbnail
 visortmo.com##.book-thumbnail-11516.book.thumbnail
 visortmo.com##.book-thumbnail-11526.book.thumbnail
@@ -283,6 +283,7 @@ visortmo.com##.book-thumbnail-11527.book.thumbnail
 visortmo.com##.book-thumbnail-11529.book.thumbnail
 visortmo.com##.book-thumbnail-11541.book.thumbnail
 visortmo.com##.book-thumbnail-11552.book.thumbnail
+visortmo.com##.book-thumbnail-11556.book.thumbnail
 visortmo.com##.book-thumbnail-11563.book.thumbnail
 visortmo.com##.book-thumbnail-11567.book.thumbnail
 visortmo.com##.book-thumbnail-11568.book.thumbnail
@@ -293,6 +294,8 @@ visortmo.com##.book-thumbnail-11575.book.thumbnail
 visortmo.com##.book-thumbnail-11576.book.thumbnail
 visortmo.com##.book-thumbnail-11584.book.thumbnail
 visortmo.com##.book-thumbnail-11587.book.thumbnail
+visortmo.com##.book-thumbnail-11596.book.thumbnail
+visortmo.com##.book-thumbnail-11602.book.thumbnail
 visortmo.com##.book-thumbnail-11620.book.thumbnail
 visortmo.com##.book-thumbnail-11626.book.thumbnail
 visortmo.com##.book-thumbnail-11628.book.thumbnail
@@ -304,8 +307,6 @@ visortmo.com##.book-thumbnail-11660.book.thumbnail
 visortmo.com##.book-thumbnail-11662.book.thumbnail
 visortmo.com##.book-thumbnail-11677.book.thumbnail
 visortmo.com##.book-thumbnail-11688.book.thumbnail
-visortmo.com##.book-thumbnail-11694.book.thumbnail
-visortmo.com##.book-thumbnail-11716.book.thumbnail
 visortmo.com##.book-thumbnail-11717.book.thumbnail
 visortmo.com##.book-thumbnail-11718.book.thumbnail
 visortmo.com##.book-thumbnail-11719.book.thumbnail
@@ -330,12 +331,11 @@ visortmo.com##.book-thumbnail-11853.book.thumbnail
 visortmo.com##.book-thumbnail-11854.book.thumbnail
 visortmo.com##.book-thumbnail-11856.book.thumbnail
 visortmo.com##.book-thumbnail-11860.book.thumbnail
-visortmo.com##.book-thumbnail-11874.book.thumbnail
-visortmo.com##.book-thumbnail-11875.book.thumbnail
 visortmo.com##.book-thumbnail-11877.book.thumbnail
 visortmo.com##.book-thumbnail-11878.book.thumbnail
 visortmo.com##.book-thumbnail-11880.book.thumbnail
 visortmo.com##.book-thumbnail-11882.book.thumbnail
+visortmo.com##.book-thumbnail-11899.book.thumbnail
 visortmo.com##.book-thumbnail-11915.book.thumbnail
 visortmo.com##.book-thumbnail-11950.book.thumbnail
 visortmo.com##.book-thumbnail-11968.book.thumbnail
@@ -348,13 +348,16 @@ visortmo.com##.book-thumbnail-12025.book.thumbnail
 visortmo.com##.book-thumbnail-12028.book.thumbnail
 visortmo.com##.book-thumbnail-12033.book.thumbnail
 visortmo.com##.book-thumbnail-12035.book.thumbnail
+visortmo.com##.book-thumbnail-12052.book.thumbnail
 visortmo.com##.book-thumbnail-12060.book.thumbnail
 visortmo.com##.book-thumbnail-12087.book.thumbnail
+visortmo.com##.book-thumbnail-12103.book.thumbnail
 visortmo.com##.book-thumbnail-12104.book.thumbnail
 visortmo.com##.book-thumbnail-12113.book.thumbnail
 visortmo.com##.book-thumbnail-12122.book.thumbnail
 visortmo.com##.book-thumbnail-12124.book.thumbnail
 visortmo.com##.book-thumbnail-12125.book.thumbnail
+visortmo.com##.book-thumbnail-12140.book.thumbnail
 visortmo.com##.book-thumbnail-12148.book.thumbnail
 visortmo.com##.book-thumbnail-12157.book.thumbnail
 visortmo.com##.book-thumbnail-12161.book.thumbnail
@@ -369,7 +372,6 @@ visortmo.com##.book-thumbnail-12186.book.thumbnail
 visortmo.com##.book-thumbnail-12187.book.thumbnail
 visortmo.com##.book-thumbnail-12191.book.thumbnail
 visortmo.com##.book-thumbnail-12194.book.thumbnail
-visortmo.com##.book-thumbnail-12195.book.thumbnail
 visortmo.com##.book-thumbnail-12196.book.thumbnail
 visortmo.com##.book-thumbnail-12199.book.thumbnail
 visortmo.com##.book-thumbnail-12200.book.thumbnail
@@ -426,20 +428,20 @@ visortmo.com##.book-thumbnail-12482.book.thumbnail
 visortmo.com##.book-thumbnail-12486.book.thumbnail
 visortmo.com##.book-thumbnail-12490.book.thumbnail
 visortmo.com##.book-thumbnail-12492.book.thumbnail
-visortmo.com##.book-thumbnail-12499.book.thumbnail
 visortmo.com##.book-thumbnail-12503.book.thumbnail
 visortmo.com##.book-thumbnail-12504.book.thumbnail
 visortmo.com##.book-thumbnail-12512.book.thumbnail
-visortmo.com##.book-thumbnail-12538.book.thumbnail
 visortmo.com##.book-thumbnail-12539.book.thumbnail
 visortmo.com##.book-thumbnail-12548.book.thumbnail
+visortmo.com##.book-thumbnail-12568.book.thumbnail
 visortmo.com##.book-thumbnail-12569.book.thumbnail
 visortmo.com##.book-thumbnail-12572.book.thumbnail
 visortmo.com##.book-thumbnail-12573.book.thumbnail
-visortmo.com##.book-thumbnail-12583.book.thumbnail
 visortmo.com##.book-thumbnail-12584.book.thumbnail
 visortmo.com##.book-thumbnail-12585.book.thumbnail
 visortmo.com##.book-thumbnail-12596.book.thumbnail
+visortmo.com##.book-thumbnail-12608.book.thumbnail
+visortmo.com##.book-thumbnail-12613.book.thumbnail
 visortmo.com##.book-thumbnail-12614.book.thumbnail
 visortmo.com##.book-thumbnail-12615.book.thumbnail
 visortmo.com##.book-thumbnail-12616.book.thumbnail
@@ -458,6 +460,8 @@ visortmo.com##.book-thumbnail-12668.book.thumbnail
 visortmo.com##.book-thumbnail-12669.book.thumbnail
 visortmo.com##.book-thumbnail-12676.book.thumbnail
 visortmo.com##.book-thumbnail-12680.book.thumbnail
+visortmo.com##.book-thumbnail-12684.book.thumbnail
+visortmo.com##.book-thumbnail-12685.book.thumbnail
 visortmo.com##.book-thumbnail-12687.book.thumbnail
 visortmo.com##.book-thumbnail-12691.book.thumbnail
 visortmo.com##.book-thumbnail-12694.book.thumbnail
@@ -467,6 +471,7 @@ visortmo.com##.book-thumbnail-12718.book.thumbnail
 visortmo.com##.book-thumbnail-12729.book.thumbnail
 visortmo.com##.book-thumbnail-12730.book.thumbnail
 visortmo.com##.book-thumbnail-12747.book.thumbnail
+visortmo.com##.book-thumbnail-12759.book.thumbnail
 visortmo.com##.book-thumbnail-12761.book.thumbnail
 visortmo.com##.book-thumbnail-12762.book.thumbnail
 visortmo.com##.book-thumbnail-12771.book.thumbnail
@@ -475,6 +480,7 @@ visortmo.com##.book-thumbnail-12781.book.thumbnail
 visortmo.com##.book-thumbnail-12785.book.thumbnail
 visortmo.com##.book-thumbnail-12787.book.thumbnail
 visortmo.com##.book-thumbnail-12795.book.thumbnail
+visortmo.com##.book-thumbnail-12799.book.thumbnail
 visortmo.com##.book-thumbnail-12801.book.thumbnail
 visortmo.com##.book-thumbnail-12802.book.thumbnail
 visortmo.com##.book-thumbnail-12806.book.thumbnail
@@ -497,16 +503,13 @@ visortmo.com##.book-thumbnail-12871.book.thumbnail
 visortmo.com##.book-thumbnail-12875.book.thumbnail
 visortmo.com##.book-thumbnail-12878.book.thumbnail
 visortmo.com##.book-thumbnail-12879.book.thumbnail
-visortmo.com##.book-thumbnail-12885.book.thumbnail
 visortmo.com##.book-thumbnail-12892.book.thumbnail
-visortmo.com##.book-thumbnail-12896.book.thumbnail
 visortmo.com##.book-thumbnail-12906.book.thumbnail
 visortmo.com##.book-thumbnail-12909.book.thumbnail
 visortmo.com##.book-thumbnail-12913.book.thumbnail
-visortmo.com##.book-thumbnail-12917.book.thumbnail
-visortmo.com##.book-thumbnail-12921.book.thumbnail
 visortmo.com##.book-thumbnail-12924.book.thumbnail
 visortmo.com##.book-thumbnail-12925.book.thumbnail
+visortmo.com##.book-thumbnail-12926.book.thumbnail
 visortmo.com##.book-thumbnail-12927.book.thumbnail
 visortmo.com##.book-thumbnail-12928.book.thumbnail
 visortmo.com##.book-thumbnail-12930.book.thumbnail
@@ -544,13 +547,13 @@ visortmo.com##.book-thumbnail-13120.book.thumbnail
 visortmo.com##.book-thumbnail-13125.book.thumbnail
 visortmo.com##.book-thumbnail-13137.book.thumbnail
 visortmo.com##.book-thumbnail-13142.book.thumbnail
-visortmo.com##.book-thumbnail-13158.book.thumbnail
 visortmo.com##.book-thumbnail-13169.book.thumbnail
 visortmo.com##.book-thumbnail-13171.book.thumbnail
 visortmo.com##.book-thumbnail-13172.book.thumbnail
 visortmo.com##.book-thumbnail-13177.book.thumbnail
 visortmo.com##.book-thumbnail-13188.book.thumbnail
 visortmo.com##.book-thumbnail-13198.book.thumbnail
+visortmo.com##.book-thumbnail-13216.book.thumbnail
 visortmo.com##.book-thumbnail-13219.book.thumbnail
 visortmo.com##.book-thumbnail-13220.book.thumbnail
 visortmo.com##.book-thumbnail-13233.book.thumbnail
@@ -612,6 +615,7 @@ visortmo.com##.book-thumbnail-13576.book.thumbnail
 visortmo.com##.book-thumbnail-13603.book.thumbnail
 visortmo.com##.book-thumbnail-13604.book.thumbnail
 visortmo.com##.book-thumbnail-13607.book.thumbnail
+visortmo.com##.book-thumbnail-13608.book.thumbnail
 visortmo.com##.book-thumbnail-13618.book.thumbnail
 visortmo.com##.book-thumbnail-13621.book.thumbnail
 visortmo.com##.book-thumbnail-13632.book.thumbnail
@@ -665,7 +669,9 @@ visortmo.com##.book-thumbnail-13912.book.thumbnail
 visortmo.com##.book-thumbnail-13921.book.thumbnail
 visortmo.com##.book-thumbnail-13930.book.thumbnail
 visortmo.com##.book-thumbnail-13932.book.thumbnail
+visortmo.com##.book-thumbnail-13934.book.thumbnail
 visortmo.com##.book-thumbnail-13935.book.thumbnail
+visortmo.com##.book-thumbnail-13941.book.thumbnail
 visortmo.com##.book-thumbnail-13952.book.thumbnail
 visortmo.com##.book-thumbnail-13953.book.thumbnail
 visortmo.com##.book-thumbnail-13961.book.thumbnail
@@ -739,10 +745,12 @@ visortmo.com##.book-thumbnail-14580.book.thumbnail
 visortmo.com##.book-thumbnail-14581.book.thumbnail
 visortmo.com##.book-thumbnail-14582.book.thumbnail
 visortmo.com##.book-thumbnail-14595.book.thumbnail
+visortmo.com##.book-thumbnail-14601.book.thumbnail
 visortmo.com##.book-thumbnail-14604.book.thumbnail
 visortmo.com##.book-thumbnail-14630.book.thumbnail
 visortmo.com##.book-thumbnail-14632.book.thumbnail
 visortmo.com##.book-thumbnail-14633.book.thumbnail
+visortmo.com##.book-thumbnail-14636.book.thumbnail
 visortmo.com##.book-thumbnail-14637.book.thumbnail
 visortmo.com##.book-thumbnail-14639.book.thumbnail
 visortmo.com##.book-thumbnail-14641.book.thumbnail
@@ -813,7 +821,6 @@ visortmo.com##.book-thumbnail-14992.book.thumbnail
 visortmo.com##.book-thumbnail-15019.book.thumbnail
 visortmo.com##.book-thumbnail-15020.book.thumbnail
 visortmo.com##.book-thumbnail-15052.book.thumbnail
-visortmo.com##.book-thumbnail-15055.book.thumbnail
 visortmo.com##.book-thumbnail-15064.book.thumbnail
 visortmo.com##.book-thumbnail-15072.book.thumbnail
 visortmo.com##.book-thumbnail-15082.book.thumbnail
@@ -8249,9 +8256,7 @@ visortmo.com##.book-thumbnail-81605.book.thumbnail
 visortmo.com##.book-thumbnail-81606.book.thumbnail
 visortmo.com##.book-thumbnail-81628.book.thumbnail
 visortmo.com##.book-thumbnail-81633.book.thumbnail
-visortmo.com##.book-thumbnail-81637.book.thumbnail
 visortmo.com##.book-thumbnail-81654.book.thumbnail
-visortmo.com##.book-thumbnail-81655.book.thumbnail
 visortmo.com##.book-thumbnail-81657.book.thumbnail
 visortmo.com##.book-thumbnail-81660.book.thumbnail
 visortmo.com##.book-thumbnail-81663.book.thumbnail
@@ -8496,7 +8501,6 @@ visortmo.com##.book-thumbnail-83156.book.thumbnail
 visortmo.com##.book-thumbnail-8316.book.thumbnail
 visortmo.com##.book-thumbnail-83162.book.thumbnail
 visortmo.com##.book-thumbnail-83172.book.thumbnail
-visortmo.com##.book-thumbnail-83176.book.thumbnail
 visortmo.com##.book-thumbnail-83193.book.thumbnail
 visortmo.com##.book-thumbnail-83209.book.thumbnail
 visortmo.com##.book-thumbnail-83211.book.thumbnail
@@ -8812,7 +8816,6 @@ visortmo.com##.book-thumbnail-84764.book.thumbnail
 visortmo.com##.book-thumbnail-84778.book.thumbnail
 visortmo.com##.book-thumbnail-84781.book.thumbnail
 visortmo.com##.book-thumbnail-84785.book.thumbnail
-visortmo.com##.book-thumbnail-84788.book.thumbnail
 visortmo.com##.book-thumbnail-84791.book.thumbnail
 visortmo.com##.book-thumbnail-84798.book.thumbnail
 visortmo.com##.book-thumbnail-84801.book.thumbnail
@@ -8868,6 +8871,7 @@ visortmo.com##.book-thumbnail-85036.book.thumbnail
 visortmo.com##.book-thumbnail-85038.book.thumbnail
 visortmo.com##.book-thumbnail-85045.book.thumbnail
 visortmo.com##.book-thumbnail-85046.book.thumbnail
+visortmo.com##.book-thumbnail-8506.book.thumbnail
 visortmo.com##.book-thumbnail-85065.book.thumbnail
 visortmo.com##.book-thumbnail-85075.book.thumbnail
 visortmo.com##.book-thumbnail-85077.book.thumbnail
@@ -9028,7 +9032,6 @@ visortmo.com##.book-thumbnail-85813.book.thumbnail
 visortmo.com##.book-thumbnail-85815.book.thumbnail
 visortmo.com##.book-thumbnail-85820.book.thumbnail
 visortmo.com##.book-thumbnail-85821.book.thumbnail
-visortmo.com##.book-thumbnail-85839.book.thumbnail
 visortmo.com##.book-thumbnail-85840.book.thumbnail
 visortmo.com##.book-thumbnail-8585.book.thumbnail
 visortmo.com##.book-thumbnail-85855.book.thumbnail
@@ -9047,8 +9050,9 @@ visortmo.com##.book-thumbnail-85913.book.thumbnail
 visortmo.com##.book-thumbnail-85916.book.thumbnail
 visortmo.com##.book-thumbnail-85917.book.thumbnail
 visortmo.com##.book-thumbnail-85920.book.thumbnail
-visortmo.com##.book-thumbnail-85922.book.thumbnail
 visortmo.com##.book-thumbnail-85924.book.thumbnail
+visortmo.com##.book-thumbnail-85935.book.thumbnail
+visortmo.com##.book-thumbnail-85938.book.thumbnail
 visortmo.com##.book-thumbnail-8599.book.thumbnail
 visortmo.com##.book-thumbnail-8602.book.thumbnail
 visortmo.com##.book-thumbnail-8605.book.thumbnail
@@ -9081,10 +9085,9 @@ visortmo.com##.book-thumbnail-8781.book.thumbnail
 visortmo.com##.book-thumbnail-8785.book.thumbnail
 visortmo.com##.book-thumbnail-8787.book.thumbnail
 visortmo.com##.book-thumbnail-8789.book.thumbnail
-visortmo.com##.book-thumbnail-8804.book.thumbnail
-visortmo.com##.book-thumbnail-8816.book.thumbnail
+visortmo.com##.book-thumbnail-8791.book.thumbnail
+visortmo.com##.book-thumbnail-8815.book.thumbnail
 visortmo.com##.book-thumbnail-8817.book.thumbnail
-visortmo.com##.book-thumbnail-8818.book.thumbnail
 visortmo.com##.book-thumbnail-8821.book.thumbnail
 visortmo.com##.book-thumbnail-8828.book.thumbnail
 visortmo.com##.book-thumbnail-8834.book.thumbnail
@@ -9148,13 +9151,13 @@ visortmo.com##.book-thumbnail-9272.book.thumbnail
 visortmo.com##.book-thumbnail-9278.book.thumbnail
 visortmo.com##.book-thumbnail-9285.book.thumbnail
 visortmo.com##.book-thumbnail-9289.book.thumbnail
-visortmo.com##.book-thumbnail-9290.book.thumbnail
 visortmo.com##.book-thumbnail-9306.book.thumbnail
 visortmo.com##.book-thumbnail-9307.book.thumbnail
 visortmo.com##.book-thumbnail-9309.book.thumbnail
 visortmo.com##.book-thumbnail-9314.book.thumbnail
 visortmo.com##.book-thumbnail-9315.book.thumbnail
 visortmo.com##.book-thumbnail-9326.book.thumbnail
+visortmo.com##.book-thumbnail-9328.book.thumbnail
 visortmo.com##.book-thumbnail-9334.book.thumbnail
 visortmo.com##.book-thumbnail-9338.book.thumbnail
 visortmo.com##.book-thumbnail-9341.book.thumbnail
@@ -9164,7 +9167,6 @@ visortmo.com##.book-thumbnail-9354.book.thumbnail
 visortmo.com##.book-thumbnail-9356.book.thumbnail
 visortmo.com##.book-thumbnail-9357.book.thumbnail
 visortmo.com##.book-thumbnail-9360.book.thumbnail
-visortmo.com##.book-thumbnail-9366.book.thumbnail
 visortmo.com##.book-thumbnail-9368.book.thumbnail
 visortmo.com##.book-thumbnail-9370.book.thumbnail
 visortmo.com##.book-thumbnail-9374.book.thumbnail
@@ -9176,6 +9178,7 @@ visortmo.com##.book-thumbnail-9393.book.thumbnail
 visortmo.com##.book-thumbnail-9396.book.thumbnail
 visortmo.com##.book-thumbnail-9398.book.thumbnail
 visortmo.com##.book-thumbnail-9401.book.thumbnail
+visortmo.com##.book-thumbnail-9403.book.thumbnail
 visortmo.com##.book-thumbnail-9408.book.thumbnail
 visortmo.com##.book-thumbnail-9415.book.thumbnail
 visortmo.com##.book-thumbnail-9423.book.thumbnail
@@ -9184,19 +9187,18 @@ visortmo.com##.book-thumbnail-9429.book.thumbnail
 visortmo.com##.book-thumbnail-9432.book.thumbnail
 visortmo.com##.book-thumbnail-9436.book.thumbnail
 visortmo.com##.book-thumbnail-9440.book.thumbnail
+visortmo.com##.book-thumbnail-9483.book.thumbnail
 visortmo.com##.book-thumbnail-9485.book.thumbnail
 visortmo.com##.book-thumbnail-9486.book.thumbnail
 visortmo.com##.book-thumbnail-9487.book.thumbnail
 visortmo.com##.book-thumbnail-9491.book.thumbnail
 visortmo.com##.book-thumbnail-9507.book.thumbnail
 visortmo.com##.book-thumbnail-9510.book.thumbnail
-visortmo.com##.book-thumbnail-9514.book.thumbnail
 visortmo.com##.book-thumbnail-9519.book.thumbnail
 visortmo.com##.book-thumbnail-9535.book.thumbnail
 visortmo.com##.book-thumbnail-9541.book.thumbnail
 visortmo.com##.book-thumbnail-9543.book.thumbnail
 visortmo.com##.book-thumbnail-9548.book.thumbnail
-visortmo.com##.book-thumbnail-9552.book.thumbnail
 visortmo.com##.book-thumbnail-9554.book.thumbnail
 visortmo.com##.book-thumbnail-9556.book.thumbnail
 visortmo.com##.book-thumbnail-9577.book.thumbnail
@@ -9220,8 +9222,6 @@ visortmo.com##.book-thumbnail-9674.book.thumbnail
 visortmo.com##.book-thumbnail-9677.book.thumbnail
 visortmo.com##.book-thumbnail-9690.book.thumbnail
 visortmo.com##.book-thumbnail-9694.book.thumbnail
-visortmo.com##.book-thumbnail-9695.book.thumbnail
-visortmo.com##.book-thumbnail-9698.book.thumbnail
 visortmo.com##.book-thumbnail-9713.book.thumbnail
 visortmo.com##.book-thumbnail-9717.book.thumbnail
 visortmo.com##.book-thumbnail-9719.book.thumbnail
@@ -9252,6 +9252,7 @@ visortmo.com##.book-thumbnail-9794.book.thumbnail
 visortmo.com##.book-thumbnail-9801.book.thumbnail
 visortmo.com##.book-thumbnail-9809.book.thumbnail
 visortmo.com##.book-thumbnail-9812.book.thumbnail
+visortmo.com##.book-thumbnail-9814.book.thumbnail
 visortmo.com##.book-thumbnail-9815.book.thumbnail
 visortmo.com##.book-thumbnail-9816.book.thumbnail
 visortmo.com##.book-thumbnail-9817.book.thumbnail
@@ -9264,12 +9265,10 @@ visortmo.com##.book-thumbnail-9849.book.thumbnail
 visortmo.com##.book-thumbnail-9850.book.thumbnail
 visortmo.com##.book-thumbnail-9861.book.thumbnail
 visortmo.com##.book-thumbnail-9873.book.thumbnail
-visortmo.com##.book-thumbnail-9876.book.thumbnail
 visortmo.com##.book-thumbnail-9878.book.thumbnail
 visortmo.com##.book-thumbnail-9890.book.thumbnail
 visortmo.com##.book-thumbnail-9896.book.thumbnail
 visortmo.com##.book-thumbnail-9906.book.thumbnail
-visortmo.com##.book-thumbnail-9907.book.thumbnail
 visortmo.com##.book-thumbnail-9909.book.thumbnail
 visortmo.com##.book-thumbnail-9910.book.thumbnail
 visortmo.com##.book-thumbnail-9912.book.thumbnail
