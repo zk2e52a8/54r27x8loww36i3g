@@ -1,5 +1,5 @@
 ! Title: Filtros para visorTMO
-! Last modified: Sat, 21 Sep 2024 06:40:03 +0000
+! Last modified: Sat, 21 Sep 2024 12:59:57 +0000
 ! Expires: 6 hours
 
 visortmo.com##.book-thumbnail-10003.book.thumbnail
@@ -9060,6 +9060,7 @@ visortmo.com##.book-thumbnail-85945.book.thumbnail
 visortmo.com##.book-thumbnail-85952.book.thumbnail
 visortmo.com##.book-thumbnail-85959.book.thumbnail
 visortmo.com##.book-thumbnail-85963.book.thumbnail
+visortmo.com##.book-thumbnail-85978.book.thumbnail
 visortmo.com##.book-thumbnail-8599.book.thumbnail
 visortmo.com##.book-thumbnail-8602.book.thumbnail
 visortmo.com##.book-thumbnail-8605.book.thumbnail
