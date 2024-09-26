@@ -1,5 +1,5 @@
 ! Title: Filtros para visorTMO
-! Last modified: Thu, 26 Sep 2024 06:19:30 +0000
+! Last modified: Thu, 26 Sep 2024 12:27:16 +0000
 ! Expires: 6 hours
 
 visortmo.com##.book-thumbnail-10003.book.thumbnail
@@ -8771,6 +8771,7 @@ visortmo.com##.book-thumbnail-84619.book.thumbnail
 visortmo.com##.book-thumbnail-84623.book.thumbnail
 visortmo.com##.book-thumbnail-84629.book.thumbnail
 visortmo.com##.book-thumbnail-84634.book.thumbnail
+visortmo.com##.book-thumbnail-84638.book.thumbnail
 visortmo.com##.book-thumbnail-84640.book.thumbnail
 visortmo.com##.book-thumbnail-84647.book.thumbnail
 visortmo.com##.book-thumbnail-84649.book.thumbnail
@@ -9054,8 +9055,10 @@ visortmo.com##.book-thumbnail-8602.book.thumbnail
 visortmo.com##.book-thumbnail-86022.book.thumbnail
 visortmo.com##.book-thumbnail-86027.book.thumbnail
 visortmo.com##.book-thumbnail-86029.book.thumbnail
+visortmo.com##.book-thumbnail-86041.book.thumbnail
 visortmo.com##.book-thumbnail-8605.book.thumbnail
 visortmo.com##.book-thumbnail-86053.book.thumbnail
+visortmo.com##.book-thumbnail-86060.book.thumbnail
 visortmo.com##.book-thumbnail-8608.book.thumbnail
 visortmo.com##.book-thumbnail-8610.book.thumbnail
 visortmo.com##.book-thumbnail-8613.book.thumbnail
