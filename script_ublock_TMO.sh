@@ -1,35 +1,35 @@
 #!/bin/bash
 
-# Este script recopila identificadores de miniaturas de fichas en visortmo.com según sus etiquetas, para generar un filtro de bloqueo compatible con uBlock
+# Este script recopila identificadores de miniaturas de fichas en zonatmo.com según sus etiquetas, para generar un filtro de bloqueo compatible con uBlock
 
 # NOTE Sobre la obtención de la URL:
-# Se usa "visortmo.com/library" (BIBLIOTECA) para listar entradas filtrando sus tags y flags
+# Se usa "zonatmo.com/library" (BIBLIOTECA) para listar entradas filtrando sus tags y flags
 # Permanecer en la página 1 genera un formato de URL no deseado; es necesario avanzar en la lista
 # Debe eliminarse el número final, que corresponde a la página actual
 # Es importante ordenar por "Creación" para evitar detectar duplicados prematuramente
 
 URLs=(
 	# Flags:Seinen Tags:+Ecchi
-	"https://visortmo.com/library?order_item=creation&order_dir=desc&demography=seinen&filter_by=title&genders%5B0%5D=6&_pg=1&page="
+	"https://zonatmo.com/library?order_item=creation&order_dir=desc&demography=seinen&filter_by=title&genders%5B0%5D=6&_pg=1&page="
 	# Flags:Shounen Tags:+Ecchi
-	"https://visortmo.com/library?order_item=creation&order_dir=desc&demography=shounen&filter_by=title&genders%5B0%5D=6&_pg=1&page="
+	"https://zonatmo.com/library?order_item=creation&order_dir=desc&demography=shounen&filter_by=title&genders%5B0%5D=6&_pg=1&page="
 	# Flags:Seinen,Erótico
-	"https://visortmo.com/library?order_item=creation&order_dir=desc&demography=seinen&filter_by=title&erotic=true&_pg=1&page="
+	"https://zonatmo.com/library?order_item=creation&order_dir=desc&demography=seinen&filter_by=title&erotic=true&_pg=1&page="
 	# Flags:Shounen,Erótico
-	"https://visortmo.com/library?order_item=creation&order_dir=desc&demography=shounen&filter_by=title&erotic=true&_pg=1&page="
+	"https://zonatmo.com/library?order_item=creation&order_dir=desc&demography=shounen&filter_by=title&erotic=true&_pg=1&page="
 	# Tags:+Ecchi,+Vida escolar
-	"https://visortmo.com/library?order_item=creation&order_dir=desc&filter_by=title&genders%5B0%5D=6&genders%5B1%5D=26&_pg=1&page="
+	"https://zonatmo.com/library?order_item=creation&order_dir=desc&filter_by=title&genders%5B0%5D=6&genders%5B1%5D=26&_pg=1&page="
 	# Tags:+Girls Love
-	"https://visortmo.com/library?order_item=creation&order_dir=desc&filter_by=title&genders%5B0%5D=17&_pg=1&page="
+	"https://zonatmo.com/library?order_item=creation&order_dir=desc&filter_by=title&genders%5B0%5D=17&_pg=1&page="
 	# Flags:Kodomo
-	"https://visortmo.com/library?order_item=creation&order_dir=desc&demography=kodomo&filter_by=title&_pg=1&page="
+	"https://zonatmo.com/library?order_item=creation&order_dir=desc&demography=kodomo&filter_by=title&_pg=1&page="
 )
 
 # Carpeta en la que se guardará el filtro
 carpeta_filtro="$GITHUB_WORKSPACE"
 
 # Carpeta para almacenar los archivos (uno por url) de identificadores de miniaturas, para limitar los reescaneos
-carpeta_ids="$GITHUB_WORKSPACE/identificadores_visorTMO/"
+carpeta_ids="$GITHUB_WORKSPACE/identificadores_TMO/"
 
 # Archivo en el que se almacena la fecha del último reinicio de los filtros
 archivo_timestamp="$carpeta_ids/RESET.timestamp"
@@ -204,10 +204,10 @@ sort --unique -o "$ids_unificados" "$ids_unificados"
 
 # Formatear los identificadores para uBlock, añadiendo prefijos y sufijos específicos
 base_filtro=$(mktemp)
-sed 's|^|visortmo.com##.book-thumbnail-|; s|$|.book.thumbnail|' "$ids_unificados" > "$base_filtro"
+sed 's|^|zonatmo.com##.book-thumbnail-|; s|$|.book.thumbnail|' "$ids_unificados" > "$base_filtro"
 
 # Añadir la cabecera y guardar el filtro
-{	echo "! Title: Filtros para visorTMO"
+{	echo "! Title: Filtros para TMO"
 	echo "! Last modified: $(TZ="UTC" date +"%a, %d %b %Y %H:%M:%S %z")"
 	echo "! Expires: 6 hours"
 	echo
