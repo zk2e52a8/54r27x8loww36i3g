@@ -117,7 +117,7 @@ procesar_identificadores() {
 descargar_pagina() {
 	while true; do
 		# Descargar la página
-		contenido_pagina=$(curl --silent --fail -A "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.3" "$url_completa")
+		contenido_pagina=$(curl --silent --fail -A "Mozilla/5.0 (Windows NT 10.0; rv:131.0) Gecko/20100101 Firefox/131.0" "$url_completa")
 		local salida_curl=$?
 
 		if [ $salida_curl -eq 0 ] && [[ -n "$contenido_pagina" ]]; then
