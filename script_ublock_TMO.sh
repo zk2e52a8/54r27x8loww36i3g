@@ -128,7 +128,7 @@ descargar_pagina() {
 		intentos_descarga=$((intentos_descarga + 1))
 
 		# Verificar si se ha superado el máximo de intentos
-		if [ $intentos_descarga -lt $max_intentos ]; then
+		if [ $intentos_descarga -ge $max_intentos ]; then
 			echo "Error al descargar desde el servidor en $max_intentos ocasiones"
 			echo "Si esto ocurre al inicio, puede que haya un problema con el agente de usuario de curl"
 			echo "Abortando el script"
