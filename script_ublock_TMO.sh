@@ -168,7 +168,7 @@ for url_base in "${URLs[@]}"; do
 		url_completa="${url_base}${numero_pagina}"
 
 		# Pausa para evitar el bloqueo por scraping
-		sleep 10
+		sleep 20
 
 		# Descargar y verificar la descarga de la página
 		descargar_pagina
