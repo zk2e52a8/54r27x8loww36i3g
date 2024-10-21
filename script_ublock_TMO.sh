@@ -35,12 +35,12 @@ carpeta_ids="$GITHUB_WORKSPACE/identificadores_TMO/"
 archivo_timestamp="$carpeta_ids/RESET.timestamp"
 
 # Frecuencia para el reinicio de filtros, en días
-# Deben reiniciarse regularmente, ya que las fichas antiguas pueden ser actualizadas
-limite_reset=$((6 * 24 * 3600))
+# Deben reiniciarse regularmente, ya que las fichas pueden ser actualizadas
+limite_reset=$((14 * 24 * 3600))
 
 # Límite de intentos de descarga
-tiempo_espera="120" # En segundos
-max_intentos="30" # Lo que equivale a un total de una hora
+tiempo_espera="300" # En segundos
+max_intentos="24" # Lo que equivale a un total de dos horas
 
 #################### Fin de la configuración
 
