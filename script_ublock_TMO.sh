@@ -209,7 +209,7 @@ sed 's|^|zonatmo.com##.book-thumbnail-|; s|$|.book.thumbnail|' "$ids_unificados"
 # Añadir la cabecera y guardar el filtro
 {	echo "! Title: Filtros para TMO"
 	echo "! Last modified: $(TZ="UTC" date +"%a, %d %b %Y %H:%M:%S %z")"
-	echo "! Expires: 6 hours"
+	echo "! Expires: 24 hours"
 	echo
 	cat "$base_filtro"
 } > "$carpeta_filtro/filtro_ublock_TMO.txt"
