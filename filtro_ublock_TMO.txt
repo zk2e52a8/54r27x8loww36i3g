@@ -1,5 +1,5 @@
 ! Title: Filtros para TMO
-! Last modified: Mon, 25 Nov 2024 00:59:39 +0000
+! Last modified: Tue, 26 Nov 2024 00:59:53 +0000
 ! Expires: 24 hours
 
 zonatmo.com##.book-thumbnail-10003.book.thumbnail
@@ -9220,6 +9220,9 @@ zonatmo.com##.book-thumbnail-86882.book.thumbnail
 zonatmo.com##.book-thumbnail-86890.book.thumbnail
 zonatmo.com##.book-thumbnail-86896.book.thumbnail
 zonatmo.com##.book-thumbnail-86902.book.thumbnail
+zonatmo.com##.book-thumbnail-86919.book.thumbnail
+zonatmo.com##.book-thumbnail-86920.book.thumbnail
+zonatmo.com##.book-thumbnail-86926.book.thumbnail
 zonatmo.com##.book-thumbnail-8702.book.thumbnail
 zonatmo.com##.book-thumbnail-8707.book.thumbnail
 zonatmo.com##.book-thumbnail-8710.book.thumbnail
